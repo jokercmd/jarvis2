@@ -3,10 +3,10 @@ return {
 	base_url = "https://api.telegram.org/bot*"..bot_api_key,
 	cmd = '^[/!#]',
 	db = 0,
-	superadmins = {56693692},
+	superadmins = {270325030},
 	log = {
-		chat = 56693692,
-		admin = 56693692,
+		chat = 270325030,
+		admin = 270325030,
 		stats = nil
 	},
 	bot_settings = {
